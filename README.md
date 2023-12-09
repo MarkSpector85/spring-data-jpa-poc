@@ -6,7 +6,7 @@ This Spring Boot project demonstrates the use of Spring Data JPA to interact wit
 
 ## Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - MySQL installed locally or accessible remotely
 - Maven (or your preferred build tool)
 
