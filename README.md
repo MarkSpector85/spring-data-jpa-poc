@@ -1,4 +1,4 @@
-# Spring Boot Project with Spring Data JPA and PostgreSQL
+# Spring Boot Project with Spring Data JPA and MySQL
 
 ## Overview
 
