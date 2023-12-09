@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Spring Boot project demonstrates the use of Spring Data JPA to interact with a PostgreSQL database. It includes configurations for the data source, JPA, and Hibernate. This README provides instructions on setting up the project and running it.
+This Spring Boot project demonstrates the use of Spring Data JPA to interact with a MySQL database. It includes configurations for the data source, JPA, and Hibernate. This README provides instructions on setting up the project and running it.
 
 ## Prerequisites
 
